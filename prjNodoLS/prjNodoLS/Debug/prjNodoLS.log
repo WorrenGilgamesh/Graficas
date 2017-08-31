@@ -1,0 +1,4 @@
+﻿  prjNodoLS.cpp
+c:\users\sdist\desktop\graficas\prjnodols\prjnodols\prjnodols.cpp(181): warning C4101: 'c': variable local sin referencia
+  prjNodoLS.vcxproj -> C:\Users\sdist\Desktop\Graficas\prjNodoLS\Debug\prjNodoLS.exe
+  prjNodoLS.vcxproj -> C:\Users\sdist\Desktop\Graficas\prjNodoLS\Debug\prjNodoLS.pdb (Full PDB)
