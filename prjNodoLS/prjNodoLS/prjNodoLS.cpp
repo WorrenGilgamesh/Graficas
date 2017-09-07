@@ -185,7 +185,7 @@ void main(int argc, char* argv[])
 	a.agregaAlFinal(300);
 	a.agregaAlFinal(400);
 	a.agregaAlFinal(500);
-
+	a.agregaAlInicio(120);
 	a.agregaAlInicio(-500);
 	a.agregaAlInicio(-200);
 

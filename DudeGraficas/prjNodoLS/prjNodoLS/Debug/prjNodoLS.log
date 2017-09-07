@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  prjNodoLS.cpp
+c:\users\sdist\desktop\graficasjho\dudegraficas\prjnodols\prjnodols\prjnodols.cpp(181): warning C4101: 'c': variable local sin referencia
+  prjNodoLS.vcxproj -> C:\Users\sdist\Desktop\GraficasJho\DudeGraficas\prjNodoLS\Debug\prjNodoLS.exe
+  prjNodoLS.vcxproj -> C:\Users\sdist\Desktop\GraficasJho\DudeGraficas\prjNodoLS\Debug\prjNodoLS.pdb (Full PDB)
