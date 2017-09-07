@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+c:\users\sdist\desktop\graficas\consoleapplication1\consoleapplication1\consoleapplication1.cpp(21): warning C4101: 'ap_x': variable local sin referencia
+c:\users\sdist\desktop\graficas\consoleapplication1\consoleapplication1\consoleapplication1.cpp(22): warning C4101: 'i': variable local sin referencia
+  ConsoleApplication1.vcxproj -> C:\Users\sdist\Desktop\Graficas\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\sdist\Desktop\Graficas\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
